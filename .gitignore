@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+src/staticfiles/vendors
+src/local-cdn
+
 # C extensions
 *.so
 

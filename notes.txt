@@ -1,0 +1,8 @@
+gunicorn this package is like pm2 in node js
+
+python-decouple this package is like dotenv in node js
+
+
+These are to connect to progress database
+psycopg[binary]
+dj-database-url
