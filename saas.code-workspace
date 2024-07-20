@@ -1,0 +1,18 @@
+{
+	"folders": [
+	  {
+		"path": "."
+	  }
+	],
+	"settings": {
+	  "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+	  "terminal.integrated.profiles.osx": {
+		"bash": {
+		  "path": "bash",
+		  "args": ["-l", "-c", "source ${workspaceFolder}/venv/bin/activate && exec bash"]
+		}
+	  },
+	  "terminal.integrated.defaultProfile.osx": "bash"
+	}
+  }
+  
