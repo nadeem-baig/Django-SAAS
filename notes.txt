@@ -34,3 +34,10 @@ if all([ADMIN_USER_NAME, ADMIN_USER_EMAIL]):
         (f'{ADMIN_USER_NAME}', f'{ADMIN_USER_EMAIL}')
     ]
     MANAGERS=ADMINS
+
+
+these are for authentication
+django-allauth[socialaccount]
+django-allauth-ui
+
+PASS. F!V9appnMeJzcV@
